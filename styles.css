@@ -1,0 +1,139 @@
+/* First Div */
+body{
+  font-family: 'Roboto', sans-serif;
+  font-weight:300;
+  color:#3c4043;
+  text-align:center;
+}
+.navigation{
+  padding:17px 17px 0;
+  background-color:#fff;
+}
+.nav-link{
+  text-decoration:none;
+  color:#3c4043;
+}
+.link:hover{
+font-weight:bold;
+text-decoration:none;
+color:#3c4043;
+}
+.price:hover{
+text-decoration:none;
+color:#3c4043;
+}
+
+/* Second Div */
+.number1{
+  width:92px;
+}
+.member{
+  text-align:center;
+  margin-top:83px;
+  color:#3c4043;
+}
+.first-head{
+  font-size:54px;
+  font-weight:400;
+  color:black;
+  width:710px;
+  margin:auto;
+}
+.first-subhead{
+  font-size:1.4rem;
+  margin-top:18px;
+
+}
+/* Third Div */
+.big-image{
+  text-align:center;
+}
+.small-image{
+  text-align:center;
+}
+.testimonial{
+  width:1075px;
+  margin:90px 0 10px 0;
+}
+.small{
+  border-radius:50%;
+  width:47px;
+  margin:25px 14px 50px 14px;
+}
+
+/* Fourth Div */
+.forth-div{
+  text-align:center;
+  margin:140px 0;
+
+}
+/* Fifth Div */
+
+.row{
+    padding:5px 10% 5px 10%;
+}
+
+.fifth-head{
+  text-align:left;
+  margin:auto;
+  padding: 15px 0;
+}
+.fifthd{
+  width:74%;
+}
+
+/* Sixth Div */
+.benefit-row{
+  width:90%;
+  text-align:center;
+
+}
+.benefits{
+  text-align:center;
+  margin:140px 0;
+}
+.benfit-img{
+  width:120%;
+}
+
+/* Seventh Div */
+
+.Seventh-div{
+  text-align:center;
+
+  margin:auto;
+  padding:10% 0 10%;
+}
+
+/* Pricing Div */
+.card-header{
+  text-align:center;
+}
+.card-body{
+  text-align:left;
+}
+.btnprice{
+  margin:25px 0 25px 0;
+}
+.price2{
+  text-decoration:none;
+  color:#fff;
+}
+.options-btn{
+  text-align:center;
+  margin:15px 0 15px 0;
+}
+
+.footerdiv{
+  background-color:#f4f6ff;
+  margin:0;
+  padding:30px;
+}
+.footer-img{
+  padding:0 8px 0 8px;
+}
+.footerlink{
+  margin:5px;
+  text-decoration:none;
+  color:#3c4043;
+}
